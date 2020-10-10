@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const PersonModel = require('../models/PersonModel');
+const PersonModel = require('../model/PersonModel');
 const cloudinary = require('cloudinary');
 
 router.get(
