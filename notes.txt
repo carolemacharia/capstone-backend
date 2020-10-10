@@ -1,0 +1,11 @@
+const cloudinary = require('cloudinary');
+cloudinary.config(
+    {
+        cloud_name: 'dzwud5php',
+        api_key: '116819275341281',
+        api_secret: 'clgM85qd4UBE7Q93jnuo4FSJ9as'
+    }
+)
+
+
+

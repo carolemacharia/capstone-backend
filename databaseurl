@@ -1,0 +1,1 @@
+const dbURL = "mongodb+srv://Dubai:Dubai12345!@cluster0.vv8d3.mongodb.net/Carole?retryWrites=true&w=majority";
